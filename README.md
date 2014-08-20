@@ -1,14 +1,15 @@
-Proxy em PHP (Utiliza cURL) para acesso de apis pÃºblicas
+Proxy em PHP (Utiliza cURL) para acesso de apis públicas
 ========================================================
 
 
-Algumas APIS:
--------------
+Exemplos de APIS:
+-----------------
 
 - http://avisobrasil.com.br/correio-control/api-de-consulta-de-cep/
 - http://postmon.com.br/
 - http://developers.agenciaideias.com.br/
 - http://fipeapi.appspot.com/
+
 
 Como usar:
 ----------
@@ -22,4 +23,3 @@ No browser:
 -----------
 
 http://localhost:8080/proxy.php?url={URL_DA_API}
-
