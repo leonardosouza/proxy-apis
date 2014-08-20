@@ -13,10 +13,10 @@ Algumas APIS:
 Como usar:
 ----------
 
-'''sh
+```sh
 $ git clone https://github.com/leonardosouza/proxy-apis.git && cd proxy-apis
 $ php -S localhost:8080
-'''
+```
 
 No browser:
 -----------
